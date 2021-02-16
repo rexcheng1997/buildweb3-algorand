@@ -2,35 +2,35 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: MABMQZT2KBOXYF5LU5QYI2M7QWHF52AQEVOWA65LGB5NNGLDSS7X56KOFQ
+* Address of account B: PXSZV76NV2Y7YIK6CDHSY4ZTCR653LDJP65WI72XFFRFWARKBY7YAC5FEA
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: NNNU4VOGO4MWUAV3VAOGZU4TVFXL55SJYPQ3JPDPM7XMYBXTPCEA
+* Transaction ID from account B: B64H42S3OVUYM7DY5WMTBW75EIYM3EFV5MPTXOCQHQY26ZOKILNA
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 14075399
+* Name of the asset: created-from-algodesk
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: LBNISWFLPRMXBHY5WC7C6IUSL4GMRGGI3D6OCFTQJU6D2MVA6JFA
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: GQG3PTYJKYYTI5GGJXT6QJEAF7D3Z3BATR4CA72FQFR2FJDNBPHA
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: T5M6TROYXU2LAMQGLXDGZYZLBE4XVRMXBTZN6FGE5PCNLWMROFBQ
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: 2GL7BCDQ525FWCHP3IT5U7SSKNZKP4DMDHRHOAGPDQE33GV5AYDQ
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: IG3LYXWXW3DGE5WMVV6YW3IPHFRCERVS3AKJAY5F5RMFD335RVZA
